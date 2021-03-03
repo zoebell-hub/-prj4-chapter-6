@@ -63,6 +63,6 @@ img {
 	margin: 20px;
     background-color: rgba(250,235,215,0.50);
 }
-.welcome, .openinghours, .location {
+.welcome, .openinghours {
     background-color: rgba(143,188,143,0.80);
 }
