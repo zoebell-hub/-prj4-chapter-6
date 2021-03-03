@@ -44,6 +44,7 @@ img {
     border-width: 5px;
     border-style: solid;
     border-color: chocolate;
+	margin: 20px;
     background-color: rgba(250,235,215,0.50);
 
 }
@@ -51,11 +52,13 @@ img {
     border-width: 5px;
     border-style: solid;
     border-color: chocolate;
+    margin: 20px;
     background-color: rgba(250,235,215,0.50);
 }
 .blackcoffee {
     border-width: 5px;
     border-style: solid;
     border-color: chocolate;
+	margin: 20px;
     background-color: rgba(250,235,215,0.50);
 }
