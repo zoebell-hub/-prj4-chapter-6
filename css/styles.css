@@ -1,6 +1,7 @@
 
 nav {
 	background-color: darkseagreen; 
+	margin: 20px; 
 }
 body {    
     background-image: url("../images/background2.jpg"); 
@@ -61,4 +62,7 @@ img {
     border-color: chocolate;
 	margin: 20px;
     background-color: rgba(250,235,215,0.50);
+}
+.welcome, .openinghours, .location {
+    background-color: rgba(143,188,143,0.80);
 }
