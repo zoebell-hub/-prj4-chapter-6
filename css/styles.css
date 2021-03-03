@@ -1,0 +1,8 @@
+<link href="css/bootstrap.min.css"
+rel="stylesheet" type="text/css">
+<link href="css/styles.css"
+rel="stylesheet" type="text/css">
+body { font-family: Courgette; background-color: #d0d0ff; }
+h1 { font-size: 20px; margin: 1em 0; }
+p { line-height: 1.4; }
+a { color: #ff8000; }
