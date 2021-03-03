@@ -8,13 +8,14 @@ body {
     background-repeat: repeat;
 }
 h1 {
-    margin: 20px;
-    padding: 20px;
-    color: rgba(0,0,0,1.00);
+	background: darkseagreen;
+	color: white;
+	text-align: center;
+	padding: 20px;
+	border: 2px solid #522929;
 }
 
 header,footer {
-	background: darkseagreen;
 	color: white;
 	text-align: center;
 	padding: 20px;
