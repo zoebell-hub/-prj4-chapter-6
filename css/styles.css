@@ -34,34 +34,24 @@ h1 {
 	text-align: center
 }
 
+.cappuccino, .blackcoffee, .flatwhite {
+    border-width: 2px;
+    border-style: dotted;
+    border-color: darkgreen;
+    margin-top: 5px;
+    margin-right: 5px;
+    margin-left: 5px;
+    margin-bottom: 5px;
+    padding: 20px;
+    background-color: rgba(250,235,215,0.50);
+}
+
 img {
     width: 50px;
     height: 80px;
 }
 
 
-.flatwhite {
-    border-width: 5px;
-    border-style: solid;
-    border-color: chocolate;
-	margin: 20px;
-    background-color: rgba(250,235,215,0.50);
-
-}
-.cappuccino{
-    border-width: 5px;
-    border-style: solid;
-    border-color: chocolate;
-    margin: 20px;
-    background-color: rgba(250,235,215,0.50);
-}
-.blackcoffee {
-    border-width: 5px;
-    border-style: solid;
-    border-color: chocolate;
-	margin: 20px;
-    background-color: rgba(250,235,215,0.50);
-}
 .welcome, .openinghours {
     background-color: rgba(143,188,143,0.80);
 }
@@ -72,4 +62,9 @@ img {
     padding: 15px;
     width: 71px;
     height: 61px;	
+}
+
+.payment {
+    float: right;
+    font-weight: bold;	
 }
